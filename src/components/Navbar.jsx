@@ -1,5 +1,5 @@
 import { FaSquareXTwitter } from "react-icons/fa6";
-import logo from "../assets/kevinRushLogo.png";
+import logo from "../assets/Nf_1.png";
 import { FaLinkedin, FaGithub, FaInstagram } from "react-icons/fa";
 
 const SocialMediaLinks = () => {
